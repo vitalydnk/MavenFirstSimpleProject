@@ -1,0 +1,5 @@
+com\vitalydnk\usersdb\dao\domain\User.class
+com\vitalydnk\usersdb\dao\jdbc\UserDaoImpl.class
+com\vitalydnk\usersdb\dao\db\DbPool.class
+com\vitalydnk\usersdb\dao\UserDao.class
+com\vitalydnk\usersdb\dao\exceptions\DaoException.class
